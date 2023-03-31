@@ -1,6 +1,6 @@
 # TV Maze
 
-This app utilizes the TV Maze API to generate a search result of TV Series based off user input. A user can then click on a show's "Episodes" to generate a list of all episodes with a few basic details & synopsis, including a link for more information.
+This app utilizes the TV Maze API to generate a search result of TV Series based off user input. A user can then click on a show's "Episodes" to generate a list of all episodes with a few basic details & synopsis, including a link for more information. This app was great practice in API's and handling AJAX requests.
 
 <p align="center">
      <img src="app1.png" alt="App image one">
